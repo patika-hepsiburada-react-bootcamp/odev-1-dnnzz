@@ -1,0 +1,24 @@
+{
+  "name": "odev-1",
+  "version": "1.0.0",
+  "description": "- [ ] Kök dizinde **\"src\"** isminde bir dizin oluşturun ve içerisine **\"app.js\"** adında bir dosya oluşturun.\r - [ ] **\"src\"** dizini altına **\"lib\"** adında başka bir dizin açın ve bu dizinde **\"service.js\"** adında bir dosya oluşturun.",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patika-hepsiburada-react-bootcamp/odev-1-dnnzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-dnnzz/issues"
+  },
+  "homepage": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-dnnzz#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
